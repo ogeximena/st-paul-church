@@ -1,4 +1,8 @@
-
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
 .home {
     padding-top: 2rem;
     background-image: url(./assets/background34.jpg);
@@ -329,6 +333,10 @@ padding-right: 1rem;
     background-color: #a73d3a;
     padding: 10px;
     color: white;
+}
+.info-L{
+    margin-bottom: 0.1rem;
+    display: block;
 }
 .wdyf{
    
