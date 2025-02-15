@@ -1,0 +1,406 @@
+
+.home {
+    padding-top: 2rem;
+    background-image: url(./assets/background34.jpg);
+    height: 100vh;
+    text-align: center;
+    color: white;
+}
+.superman {
+    margin-top: 9rem;
+}
+.superman h1{
+    font-size: 70px;
+}
+.trbj{
+    background-color: #d84a46;
+    color: white;
+     border: none;
+     padding: 12px;
+     margin-top: 2rem;
+}
+.teh{
+    display: flex;
+}
+.gndw {
+    text-align: center;
+}
+.bible{
+    text-align: center;
+}
+.rett{
+    text-align: center;
+}
+.rcuh{
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+}
+
+.rgef{
+margin-right: 0rem;
+margin-left: 3rem;
+}
+.olive{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+.recfy{
+margin-left: 0rem;
+margin-right: 3rem;
+}
+.dyej{
+    background-color: #d84a46;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem 0;
+}
+.eeyyhh{
+
+color: white;
+background-color: #d84a46;
+outline:2px solid white;
+    border: none;
+padding: 14px;
+}
+.eeyyhh:hover{
+    background-color: white;
+   
+    color:#d84a46;
+    outline:2px solid white;
+    border: none;
+}
+.rfdt p, h2{ 
+margin: 0px;
+padding: 0px;
+}
+/* p{
+    margin-top: 1rem;
+    margin-left:0px ;
+    margin-bottom: 0px;
+    margin-right: 0px;
+} */
+ .church{
+    border-left: 1px solid white;
+    padding-left: 1rem;
+ }
+ .wel2{
+    margin-bottom: 4rem;
+ }
+ .st-paul{
+    color: brown;
+ }
+ .efyb{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: #d84a46;
+    color: white;
+    padding: 3rem 0;
+    /* font-size: 30px; */
+    width:38%; 
+    /* 
+    height: 22vh;
+   */
+ 
+ }
+ .weird{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 7rem;
+ }
+.trgfh{
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    align-items: center;
+    padding-left: 1rem;
+    height: 55px;
+    padding-right: 1rem;
+}
+
+.trfn{
+    padding-left: 1rem;
+    border-right: 1px solid white;
+    height: 55px;
+    padding-right: 1rem;
+}
+
+.bg{
+  color:white  !important ;  
+} 
+
+.trdow{
+    padding-left: 1rem;
+    padding-right: 1rem; 
+}
+
+
+
+.prent-container{
+    display: flex;
+    margin-left: 5rem;
+}
+
+.prent-container > div {
+    width: 35%;
+    margin: 0 1rem;
+}
+
+.events-img1{
+    width: 100%;
+}
+
+.stpaul {
+    color: brown;
+    margin: 00.2rem 0 !important;
+    display: inline-block;
+}
+
+.revf{
+    line-height: 20px;
+}
+
+.QWERTY{
+    margin-top: 7rem;
+    text-align: center;
+}
+.wcamm{
+    margin-bottom: 3rem;
+    text-align: center;
+    color: gray;
+}
+.rec{
+    width: 68%;
+
+}
+.asd{
+    color: red;
+}
+.red{
+    width: 68%;
+}
+.dead{
+    width: 68%;
+}
+.werr{
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    font-size: 2rem; 
+}
+    
+.super{
+    display: flex;
+    margin-left: 5rem;
+}
+.rvsv{
+    display: flex;
+}
+.werrtu{
+    text-align: center;
+}
+.geri{
+    text-align: center;
+}
+.value{
+padding-left: 1rem;
+padding-right: 1rem;
+}
+.vision{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.mission{
+    padding-left: 1rem;
+    padding-right:1rem ;
+}
+.erwt{
+    display:flex
+}
+.fwts{
+    text-align: center;
+}
+.gfgd{
+    text-align: center;
+}
+.fh{
+    background-image: url(./assets/background4.jpg);
+    height: 100vh;
+    text-align: center;
+   
+    color: white;
+}
+
+.trfv{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.rcsy{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.ready{
+    padding: 12px;
+    color: #d84a46;
+    background-color:white;
+    border-radius: 5px;
+    border:2px solid #d84a46;
+    margin-left: 1rem;
+}
+.runt{
+    padding-top:10rem ;
+    font-size:2rem ;
+}
+.ready:hover{
+    background-color: #d84a46;
+    border-radius: 5px;
+    color: white;
+}
+.Redeemer{
+    padding:12px ;
+    background-color: transparent;
+    border: 2px solid  white;
+}
+.feryh{
+    margin-top: 5rem;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2.5rem;
+}
+.preachers{
+    display: flex;
+    justify-content: space-between;
+}
+
+.dsggb > img  {
+    width: 300px;
+}
+.fcyjb > img  {
+    width: 300px;
+}
+.edsfg > img  {
+    width: 300px;
+}
+.dsfwh > img  {
+    width: 300px;
+}
+.rrwh{
+    color: red;
+    text-align: center;
+}
+.hsxfdt{
+    text-align: center;
+    font-size: 2rem;
+}
+.fayufx{
+    margin-bottom: 1rem;
+    text-align: center;
+    font-size: 2rem;
+    padding-top: 3rem;
+}
+.wrdrw{
+    text-align: center;
+}
+.donate{
+    background-color: #efefef;
+    padding-bottom: 3rem;
+}
+.stoop{
+    background-color: #29333a;
+    padding: 10px;
+    color: white;
+}
+
+.jksd, .ergd, .ty3y, .rtwh{
+    background-color: white;
+    width: 20%;
+    text-align: center;
+    
+}
+.gdwsbu{
+    display: flex;
+    justify-content: space-around;
+}
+.exkj{
+    background-color: #a73d3a;
+    padding: 10px;
+    color: white;
+}
+.wdyf{
+   
+    background-color:#cf4a46 ;
+    padding: 10px;
+    color: white; 
+}
+.tyef{
+    background-color: #dd6043;
+ 
+    
+    padding: 10px;
+    color: white;
+}
+.weh{
+    color: red;
+    padding: 1rem;
+}
+.wc{
+    padding: 12px;
+    width: 150px;
+    border-radius: 3px;
+    border: 2px solid grey;
+     margin: 2rem ;
+
+}
+.wc:hover{
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.hr{
+    padding: 5rem;
+}
+.MHG{
+    display: flex;
+    margin-top: 3rem;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    padding-top:6rem;
+    padding-bottom: 3rem;
+}
+.sdh{
+    display: flex;
+    
+
+}
+.surj{
+    margin-bottom: 2rem;
+}
+.ewffb{
+    margin-left: 2rem;
+    line-height: 28px;
+}
+.demo{
+    line-height: 28px;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.bi{
+    color: red;
+}
+.erjf{
+    justify-content: center;
+}
+.g{
+    color: red;
+}
+.seconds{
+    justify-content: center;
+}
